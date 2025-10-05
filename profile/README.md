@@ -5,3 +5,6 @@
 Make sure to **bookmark** this URL https://github.com/EWU-CSCD211-Fall-2025 and check it regularly!
 
 Demo code repository: https://github.com/EWU-CSCD211-Fall-2025/demo-code
+
+# Links
+* HW2: https://classroom.github.com/a/gZhxTaX_
