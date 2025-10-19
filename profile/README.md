@@ -9,5 +9,5 @@ Demo code repository: https://github.com/EWU-CSCD211-Fall-2025/demo-code
 # Links
 [HW2](https://classroom.github.com/a/gZhxTaX_)
 
-
+[HW3](https://classroom.github.com/a/1k6V--V-)
 
