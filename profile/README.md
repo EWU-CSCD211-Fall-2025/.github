@@ -11,3 +11,4 @@ Demo code repository: https://github.com/EWU-CSCD211-Fall-2025/demo-code
 
 [HW3](https://classroom.github.com/a/1k6V--V-)
 
+[HW4](https://classroom.github.com/a/LQk9dzCK)
