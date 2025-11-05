@@ -6,6 +6,8 @@ Make sure to **bookmark** this URL https://github.com/EWU-CSCD211-Fall-2025 and 
 
 Demo code repository: https://github.com/EWU-CSCD211-Fall-2025/demo-code
 
+More info on Canvas > Pages > Schedule
+
 # Links
 [HW2](https://classroom.github.com/a/gZhxTaX_)
 
