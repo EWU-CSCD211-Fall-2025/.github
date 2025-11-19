@@ -14,3 +14,7 @@ More info on Canvas > Pages > Schedule
 [HW3](https://classroom.github.com/a/1k6V--V-)
 
 [HW4](https://classroom.github.com/a/LQk9dzCK)
+
+[HW5](https://classroom.github.com/a/LQk9dzCK)
+
+
